@@ -27,6 +27,6 @@
 - N words will be generated (N can be changed in the code (variable 'next_words')).
 - At the end of the prediction, the program displays and saves the text in a text file with the name of the theme (if the text file already exists, the generated text is replaced by the new one).
 
-# Generated text
+# Example of generated text
 
 <p align="center"><img src="output.PNG"\></p>
