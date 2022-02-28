@@ -21,6 +21,9 @@
 - The program will delimit the sequences, and create n_gram sequences. 
   - e.g. [ Hello, how, are, you, ...] --> [0,2,3,1,...]
   - [ Hello, how, are, you, ...] --> [0,2],[2,3],[3,1],...
+
+<p align="center"><img src="n_gram.PNG"\></p>
+
 - The program will search for the longest sequence, and then convert each sequence to an array.
 - The program will create a set X and a set labels for training. (X contains all the words in a sequence except the last one, and Labels contains the last word).
 - The program will categorise Labels for use.
