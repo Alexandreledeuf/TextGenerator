@@ -1,0 +1,28 @@
+Pantoums are composed entirely of quatrains.  There is no restriction on the number of quatrains, but each quatrain must follow the rhyme scheme abab within itself. The characteristic feature of a pantoum, however, is its repetition. The first and third lines of every stanza (except the first stanza)   are identical to the second and fourth lines of the previous stanza. For the final line, there is an additional rule: the second and fourth lines must be the same as the first and third lines from the first stanza. Thus the overall pattern of lines in a five-quatrain pantoum would be as follows:
+Stanza #1: 1 2 3 4
+Stanza #2: 2 5 4 6
+Stanza #3: 5 7 6 8
+Stanza #4: 7 9 8 10
+Stanza #5: 9 1 10 3
+God is too great for just one religion
+God's love is not for you alone
+A truth so great, not one can keep.
+For those who call the church their home
+A flock may use, but few will reap.
+A truth so great, not one can keep.
+Four walls make not the spirit whole
+A flock may use, but few will reap.
+His message lives within the soul.
+Four walls make not the spirit whole.
+Our time, on loan to learn and teach.
+His message lives within the soul.
+the thoughts our hearts were born to reach.
+Our time, on loan to learn and teach.
+Not one religion is the key.
+The thoughts our hearts were born to reach.
+Look deep within your soul and see.
+Not one religion is the key;
+for those who call the church their home.
+Look deep within your soul and see;
+God's love is not for you alone.
+©2008 Dawn Slanker

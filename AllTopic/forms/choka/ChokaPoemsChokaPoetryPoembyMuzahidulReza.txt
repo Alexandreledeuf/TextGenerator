@@ -1,0 +1,53 @@
+Choka
+The most intricate Japanese Poetry form is the Choka, or Long Poem.
+The early form consisted of a series of Katuata joined together. This gives a choice of form structures of
+5/7/5/5/7/7… etc. or 5/7/7/5/7…etc
+The Choka could be any total line length and indeed many exceeded 100 lines.
+Looking at this, it is easy to see why Poetic Historians believe the Katuata is the original basic unit of Japanese poetry using either the 17 or 19 unit onji.
+Choka
+Type: 	Structure, Metrical Requirement, Simple
+Description: 	The choka is a Japanese form of unrhymed alternating five and seven syllable lines that ends with an extra seven syllable line. It can be any odd number of lines.
+Origin: 	Japanese
+Schematic: 	A nine-line choke would be: xxxxx
+xxxxxxx
+xxxxx
+xxxxxxx
+xxxxx
+xxxxxxx
+xxxxx
+xxxxxxx
+xxxxxxx
+The choka (長歌 long poem)was the epic, story telling form of Japanese poetry from the 1st to the 13th century, known as the Waka period. Storytelling was rare in the Japanese language during the Waka period although it is found in the Man'yôshû and even the Kokinshú. Most often the Japanese poet would write epics in classical Chinese. Still, the occasional poet with a story to tell would tackle the choka, the earliest of which can be traced back to the 1st century. It describes a battle and is 149 lines long.
+Originally Chokas were sung, but not in the Western sense of being sung. The oral tradition of the Choka was to recite the words in a high pitch.
+Definition
+The most intricate Japanese Poetry form is the Choka, or Long Poem.
+The early form consisted of a series of Katuata joined together. This gives a choice of form structures of …..5 - 7 - 7 - 5 - 7 - 7.. etc, or..5 - 7 - 5 - 5 - 7 - 5.. etc.
+Example:
+My mother, my mom
+A great woman in the world,
+Talking, behaving in great
+Great in caring me
+And in sharing my feelings
+I cannot forget her word;
+Behavior she does
+The concern, caress she does
+That absorbs the every pain
+Stored in my heart
+By her motherly made heart
+Only one in the whole world;
+So how my heart can exchange
+With what her heart possesses.
+Specifications, Restated:
+Origin: : Japanese
+The form is syllabic: 5/7/7/5/7/7 or 5/7/5/5/7/5
+Traditional style: Stanzas consisting of any number of the above structures (called Katuata)
+oralternaively: Alternating five and seven syllable lines that end with an extra 7 syllable line.
+Unrhymed.
+Meant for longer poems.
+I have written a one using the Katuata style.
+Poem Sample
+Above the Sun (Choke)Katuata Version.
+*Example is given from my poems.
+*Other data are collected by me
+Thanks-
+Copyright © Muzahidul Reza | 20 November,2017

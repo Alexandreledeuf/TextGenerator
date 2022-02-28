@@ -1,0 +1,24 @@
+The features of the Triolet are:
+· 8 lines.
+· Two rhymes.
+· 5 of the 8 lines are repeated or refrain lines.
+· First line repeats at the 4th and 7th lines.
+· Second line repeats at the 8th line.
+· Rhyme scheme (where an upper-case letter indicates the appearance of an identical line, while a lower-case letter indicates a rhyme with each line designated by the same lower-case or upper-case letter) :
+A
+B
+a - Rhymes with 1st line.
+A - Identical to 1st line.
+a - Rhymes with 1st line.
+b - Rhymes with 2nd line.
+A - Identical to 1st line.
+B - Identical to 2nd line.
+***********************
+Our blue marble is imperiled
+Due to excessive CO2
+Like being over a barrel.
+Our blue marble is imperiled.
+Greenhouse gas, it's our funeral
+the solutions long overdue.
+Our blue marble is imperiled
+Due to excessive CO2.
