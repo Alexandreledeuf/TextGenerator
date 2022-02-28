@@ -1,6 +1,6 @@
 <p align="center"><img src="PytextLogo.PNG"\></p>
 
-# TextGenerator
+# Pytext : TextGenerator
 - Pytext is a program that generate text.
 - This notebook allows you to generate texts (poems) using a deep learning model.
 - The poem dataset is from : https://www.kaggle.com/michaelarman/poemsdataset
