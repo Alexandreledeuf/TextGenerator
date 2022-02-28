@@ -29,4 +29,4 @@
 
 # Generated text
 
-<p align="center"><img src="output.png"\></p>
+<p align="center"><img src="output.PNG"\></p>
