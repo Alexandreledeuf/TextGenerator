@@ -1,3 +1,5 @@
+<p align="center"><img src="PytextLogo.PNG"\></p>
+
 # TextGenerator
 
 - This notebook allows you to generate texts (poems) using a deep learning model.
