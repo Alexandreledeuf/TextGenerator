@@ -12,7 +12,7 @@
   - pandas
   - The other libraries should be installed thanks to these 3
 
-# How it works
+# How it works (simplify)
 
 - The user must choose among the available themes.
 - The program will search for texts of the chosen theme.
